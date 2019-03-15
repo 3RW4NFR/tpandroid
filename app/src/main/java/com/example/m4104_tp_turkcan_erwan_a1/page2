@@ -1,0 +1,11 @@
+package com.example.m4104_tp_turkcan_erwan_a1;
+
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+public class page2 extends AppCompatActivity {
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity2);
+    }
+}
