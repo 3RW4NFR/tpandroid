@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background= "@drawable/wall"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/tv"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/tv2"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="45dp"
+        android:id="@+id/tv3"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="45dp"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="appeler" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="supprimer" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="retour"
+        android:layout_marginTop="90dp"
+        android:id="@+id/b3"/>
+
+
+
+</LinearLayout>

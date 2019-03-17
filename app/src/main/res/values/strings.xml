@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">M4104_TP_Turkcan_Erwan_A1</string>
+    <string name="app_name">Monrepertoire</string>
+    <string name="nc">Nouveau Contact</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="Numéro">Numéro :</string>
+    <string name="Adresse">Adresse :</string>
+    <string name="save">Valider</string>
+
+    <string-array name="groupe_array">
+        <item>Amis</item>
+        <item>famille</item>
+        <item>Travail</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>
